@@ -111,9 +111,3 @@
 ;5
 (define (part2 lyst)
   (cdr (last-n lyst (floor (/ (length lyst) 2)))))
-
-
-
-
-
-
